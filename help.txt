@@ -1,0 +1,58 @@
+IF THOU SHALL ASK FOR HELP, HELP SHALL BE GIVEN BY <3
+
+
+COMMON COMMANDS:
+~ping
+checks latency
+
+~please
+Checks the functioning of the bot
+
+~serverstats
+Prints out all the statistics about the server
+
+
+GIVEAWAY:
+~giveaway
+Answer the questions asked by the bot to start the giveaway.
+The channel needs to be mentioned.
+The time needs to be mentioned. The time formats are listed below:
+	1. s: seconds 
+	2. m: minutes
+	3. h: hours
+	4. d: days
+	Ex: 10s means the time period for the giveaway would be 10 seconds.
+The giveaway item needs to be typed in.
+
+
+YOUTUBE TRENDS:
+~trendingyt [REGION CODE]
+Ex: trendingyt RU
+The region code is the ISO 3166-1 alpha-2 country code, which can be found in the link below:
+https://www.iban.com/country-codes
+
+
+MUSIC PLAYER:
+
+~play [AUDIO NAME]
+Make sure you join a voice channel. The bow will automacitally join the voice channel you are in.
+The audio will be searched from YouTube.
+If a song is being played, the search will be added to the playback queue
+
+~disconnect
+Disconnects the bot from the voice channel
+
+~resume
+Resumes the audio playback
+
+~pause
+Pauses the audio playback
+
+~stop
+Stops the audio playback.
+
+~loop
+Toogles loop on/off.
+
+~queue
+Lists out the current queue
