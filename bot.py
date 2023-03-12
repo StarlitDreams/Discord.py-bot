@@ -689,5 +689,5 @@ async def queue(ctx: commands.Context):
 
 
 
-bot.run('ODY3NzE3OTA2MjEyOTc4NzQ5.YPlLRg.Plyk5rD3kQcCTCPM_gILaJFO8p8')
+bot.run()
  
