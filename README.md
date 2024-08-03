@@ -1,6 +1,6 @@
 
 
-# Discord.py Bot
+# <3 Bot
 
 This is a customizable Discord bot built using Discord.py, designed to handle various server management tasks, music playback, and more. The bot includes features for moderation, role management, giveaways, and integration with external APIs like YouTube.
 
