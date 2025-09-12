@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 22 16:22:12 2021
 
-@author: Khari Narayanan Ayengar
+@author: Elena Ayengar
 
  Apache License
                            Version 2.0, January 2004
@@ -182,7 +182,7 @@ f
    END OF TERMS AND CONDITIONS
 
 
-   Copyright 2022 Ayengar Khari Narayanan
+   Copyright 2022 Elena Ayengar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
